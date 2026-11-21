@@ -1,0 +1,4 @@
+script.bat
+.idea
+.idea/*
+.idea/deployment-readiness-service.iml
